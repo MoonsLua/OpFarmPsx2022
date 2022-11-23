@@ -1,4 +1,4 @@
-_G.UserID = 2502432987
+_G.License = "2b3ade880934aaa9f39b"
 
 _G.Webhook = "https://discord.com/api/webhooks/1043980940130664568/Rr7zvobT04qrwYhTfT6HthfyTp_6FjKy-MUVn0C1Z6b86E7TD7_cQMoL8pD6W_ZqkZNA"
 _G.KickMessage = "error"
